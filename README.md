@@ -1,6 +1,6 @@
 # AngularColorSelector
 Emulate partial functionality of [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp
-) with an ANGULAR implementation.
+) with an ANGULAR implementation.(under construction)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
